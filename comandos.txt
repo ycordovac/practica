@@ -1,0 +1,685 @@
+    1  ls
+    2  sudo su
+    3  sudo unzip apache-groovy-binary-4.0.4.zip
+    4  ls
+    5  cd groovy-4.0.4/
+    6  ls
+    7  cd 
+    8  ls
+    9  pwd
+   10  ls -l
+   11  ls -a
+   12  nano .profile 
+   13  source .profile 
+   14  ls
+   15  echo $GROOVY_HOME
+   16  groovy -v
+   17  sudo snap install groovy
+   18  sudo snap install groovy --classic
+   19  pwd
+   20  cd bootcamp/
+   21  ls
+   22  cd groovy-4.0.4/
+   23  ls
+   24  cd bin/
+   25  ls
+   26  ./groovysh
+   27  cd 
+   28  ls -l
+   29  ls -a
+   30  nano .profile 
+   31  grooovy --version
+   32  apt-cache search groovy
+   33  cd /home/yandi/
+   34  ls
+   35  cd bootcamp/
+   36  ls
+   37  cd groovy-4.0.4/
+   38  ls
+   39  cd bin/
+   40  ls
+   41  cd ..
+   42  groovy-4.0.4/bin/groovy --version
+   43  cd
+   44  nano .profile 
+   45  java --version
+   46  pwd
+   47  nano .profile 
+   48  sudo apt-get install groovy
+   49  groovy --version
+   50  nano .profile 
+   51  cd bootcamp/
+   52  ls
+   53  rm -R groovy-4.0.4/
+   54  sudo su
+   55  groovy --version
+   56  apt-get update
+   57  sudo su
+   58  sudo apt-get update
+   59  nano /etc/apt/sources.list
+   60  sudo apt-get upgrade
+   61  groovy --version
+   62  sudo nano /etc/apt/sources.list
+   63  cd
+   64  nano .profile 
+   65  ls
+   66  cd bootcamp/
+   67  ls
+   68  sudo unzip apache-groovy-binary-4.0.4.zip
+   69  ls
+   70  nano .profile 
+   71  cd
+   72  sudo nano .profile 
+   73  groovy --version
+   74  apt-get --purge remove groovy
+   75  sudo apt-get --purge remove groovy
+   76  sudo nano .profile 
+   77  sudo apt-get install groovy
+   78  groovy --version
+   79  nano .profile 
+   80  echo GROOVY_HOME
+   81  echo "GROOVY_HOME"
+   82  echo "GROOVY_E"
+   83  groovy -v
+   84  ls
+   85  cd bootcamp/vstudio/
+   86  ls
+   87  sudo dpkg -i code_1.73.1-1667967334_amd64.deb 
+   88  code
+   89  cd ..
+   90  ls
+   91  mkdir workSpaceVSCode
+   92  tail -f /var/log/syslog 
+   93  apt-get update
+   94  sudo apt-get update
+   95  sudo visudo
+   96  sudo apt-get update
+   97  sudo su
+   98  exit
+   99  pin 8.8.8.8
+  100  ping 8.8.8.8
+  101  apt-get update
+  102  sudo su
+  103  sudo apt-get upgrade
+  104  sudo apt autoremove libflashrom1 libftdi1-2
+  105  sudo su
+  106  sudo apt install docker
+  107  sudo apt install apt-transport-https ca-certificates curl software-properties-common
+  108  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+  109  sudo apt install default-jdk -y
+  110  java --version
+  111  sudo apt install ssh unzip wget curl lsof vim -y
+  112  cd /home/yandi/
+  113  ls
+  114  mkdir bootcamp
+  115  wget https://www.apache.org/dyn/closer.lua/groovy/4.0.4/distribution/apache-groovy-binary-4.0.4.zip?action=download -O apache-groovy-binary-4.0.4.zip
+  116  unzip apache-groovy-binary-4.0.4.zip
+  117  ls
+  118  cd bootcamp/
+  119  ls
+  120  apt install mc
+  121  sudo apt install mc
+  122  mc
+  123  exit
+  124  sudo apt update
+  125  sudo apt upgrade
+  126  apt install docker
+  127  sudo reboot 
+  128  apt update
+  129  sudo apt update
+  130  apt list --upgradable
+  131  apt list --upgradable -a
+  132  export JAVA_OPTS="--add-opens java.base/java.lang=ALL-UNNAMED"
+  133  groovy --version
+  134  java --version
+  135  printenv 
+  136  printenv JAVA_HOME
+  137  export JAVA_OPTS="--add-opens java.base/java.lang=ALL-UNNAMED"
+  138  printenv JAVA_HOME
+  139  nano /etc/profile.d/
+  140  java --version
+  141  sudo apt install default-jre
+  142  java -version
+  143  sudo nano /etc/environment.d/
+  144  sudo nano /etc/environment
+  145  source .profile 
+  146  java -version
+  147  printenv JAVA_HOME
+  148  nano .profile 
+  149  echo $JAVA_HOME
+  150  sudo nano /etc/profile
+  151  source .profile 
+  152  printenv JAVA_HOME
+  153  sudo nano /etc/profile
+  154  nano .profile 
+  155  source .profile 
+  156  printenv JAVA_HOME
+  157  java --version 
+  158  groovy --version
+  159  exit
+  160  1ls
+  161  pwd
+  162  nano .profile 
+  163  source .profile 
+  164  printenv JAVA_HOME
+  165  nano .profile 
+  166  source .profile 
+  167  printenv JAVA_HOME
+  168  printenv GROOVY_HOME
+  169  cd bootcamp/groovy-4.0.4/
+  170  ls
+  171  cd
+  172  nano .profile 
+  173  sudo printenv GROOVY_HOME
+  174  groovy -v
+  175  groovy --version
+  176  nano .profile 
+  177  source .profile 
+  178  groovy --version
+  179  nano .profile 
+  180  source .profile 
+  181  groovy --version
+  182  nano .profile 
+  183  source .profile 
+  184  groovy --version
+  185  java --version
+  186  mc
+  187  exit
+  188  cd /usr/lib/jvm/java-11-openjdk-amd64/exit
+  189  exit
+  190  sudo su
+  191  exit
+  192  sudo apt update
+  193  nano /etc/sudoers.d/add.conf 
+  194  sudo update
+  195  sudo apt update
+  196  nano /etc/sudoers.d/add.conf 
+  197  sudo nano /etc/sudoers.d/add.conf 
+  198  sudo apt update
+  199  sudo apt-get upgrade
+  200  groovy --version
+  201  ls
+  202  cd bootcamp/
+  203  ls
+  204  mkdir docker
+  205  cd docker/
+  206  ls
+  207  curl -fsSL https://get.docker.com -o get-docker.sh
+  208  ls
+  209  sh get-docker.sh 
+  210  dockerd-rootless-setuptool.sh install
+  211  sudo sh get-docker.sh 
+  212  sudo su
+  213  docker info
+  214  sudo curl -fsSL https://get.docker.com -o get-docker.sh
+  215  sudo usermod -aG docker yandi
+  216  docker infor
+  217  docker version
+  218  sudo groupadd docker
+  219  sudo usermod -aG docker ${USER}
+  220  su -s ${USER}
+  221  apt-get --purge remove docker
+  222  sudo apt-get --purge remove docker
+  223  sudo apt-get install docker
+  224  docker version
+  225  reboot 
+  226  docker version
+  227  docker info
+  228  docker search jenkins
+  229  docker search apache
+  230  docker pull ubuntu/apache2
+  231  docker ps
+  232  docker create ubuntu/apache2 --name ubuntuApache
+  233  docker start ubuntuApache
+  234  docker ps
+  235  docker ps -a
+  236  docker remove c03e55dab1e1
+  237  docker rm c03e55dab1e1
+  238  docker ps -a
+  239  docker create ubuntu/apache2
+  240  docker ps -a
+  241  docker start 53c7423ece0c
+  242  docker ps
+  243  docker exec -it 53c7423ece0c
+  244  docker exec -it 53c7423ece0c /bin/bash
+  245  docker run ubuntu/apache2 ls
+  246  docker run ubuntu/apache2 ping 8.8.8.8
+  247  docker ps
+  248  docker image
+  249  docker image ls
+  250  docker images ls
+  251  docker images ubuntu/apache2
+  252  docker pc
+  253  docker ps
+  254  docker stop 53c7423ece0c
+  255  docker images --digests
+  256  docker images --format string
+  257  docker image
+  258  docker images ls
+  259  docker images --all
+  260  docker ps
+  261  docker images -a
+  262  docker ps
+  263  docker ps -a
+  264  docker start 4eefd6d86cdc
+  265  docker ps
+  266  docker rm 53c7423ece0c 4eefd6d86cdc 07ce38a82738
+  267  docker ps -a
+  268  docker create ubuntu/apache2
+  269  docker ps
+  270  docker ps -a
+  271  docker start nostalgic_johnson
+  272  docker ps
+  273  docker create --help
+  274  scrcopy
+  275  apt-get install scrcopy
+  276  sudo srcopy
+  277  apt-get install scrcpy
+  278  sudo apt-get install scrcpy
+  279  scrcpy
+  280  ping 8.8.8.8
+  281  sudo nano /etc/apt/sources.list
+  282  sudo apt update
+  283  sudo apt --allow-downgrades install wpasupplicant=2:2.9.0-21build1
+  284  sudo apt-mark hold wpasupplicant
+  285  nmcli dev wifi hotspot
+  286  ping 8.8.8.8
+  287  java --version
+  288  sudo apt-get install eclipse
+  289  apt-cache search eclipse
+  290  sudo snap install --classic eclipse
+  291  java -jar /home/yandi/eclipse-workspace/holaMundo/jar/Untitled.jar 
+  292  java -jar /home/yandi/eclipse-workspace/holaMundo/jar/holaMundo.jar 
+  293  docker pull alpine
+  294  docker create --name alpineJava alpine
+  295  docker ps
+  296  docker rm alpineJava
+  297  docker ps
+  298  docker stop alpineJava
+  299  docker create --name alpineJava alpine
+  300  docker start alpineJava
+  301  docker ps
+  302  docker stop 0516cde45c1d
+  303  docker ps -a
+  304  docker rm 0516cde45c1d 0516cde45c1d
+  305  docker rm -f 0516cde45c1d 0516cde45c1d
+  306  docker ps -a
+  307  docker stop alpineJava
+  308  docker ps -a
+  309  docker ps
+  310  docker ps -a
+  311  docker rm -f alpineJava
+  312  docker ps -a
+  313  docker image ls
+  314  docker images ls
+  315  docker images -a
+  316  ls 
+  317  cd bootcamp/
+  318  ls
+  319  cd docker/
+  320  ls
+  321  cd ..
+  322  mkdir dockerWS
+  323  cd dockerWS/
+  324  ls
+  325  docker image ls
+  326  mkdir --help
+  327  pwd
+  328  ls
+  329  cd
+  330  cd eclipse-workspace/holaMundo/jar/
+  331  ls
+  332  pwd
+  333  docker ps
+  334  docker image ls
+  335  docker build -t holaMundo:1 .
+  336  docker build -t holamundo:1 .
+  337  ls
+  338  cd /home/yandi/bootcamp/
+  339  ls
+  340  cd dockerWS/
+  341  ls
+  342  docker build -t holamundo:1 .
+  343  java -jar /home/yandi/eclipse-workspace/holaMundo/jar/holaMundo.jar
+  344  cd /etc/docker/
+  345  ls
+  346  ls -a
+  347  cd
+  348  cp /home/yandi/eclipse-workspace/holaMundo/jar/holaMundo.jar /home/yandi/bootcamp/dockerWS/Dockerfile 
+  349  cd /home/yandi/bootcamp/dockerWS/
+  350  ls
+  351  mv /home/yandi/eclipse-workspace/holaMundo/jar/holaMundo.jar /home/yandi/bootcamp/dockerWS/holaMundo.jar 
+  352  nano Dockerfile 
+  353  java -jar holaMundo.jar 
+  354  docker build -t holamundo:1 .
+  355  docker logs holamundo
+  356  docker ps
+  357  docker ps -l
+  358  docker image ls
+  359  docker create --name holamundocontainer holamundo
+  360  docker create --name holamundocontainer holamundo:1
+  361  docker ls
+  362  docker ps
+  363  docker ps -a
+  364  docker logs holamundocontainer
+  365  docker rm holamundocontainer 
+  366  docker ps -a
+  367  docker image rm holamundo
+  368  docker image rm holamundo:1
+  369  doker image ls
+  370  doker image 
+  371  docker image ls
+  372  docker image rm ubuntu/apache2:latest alpine:latest alpine:3.16.2 
+  373  docker build -t alpineholamundo:1 .
+  374  docker image ls
+  375  docker create --name holamundo alpineholamundo
+  376  docker create --name holamundo alpineholamundo:1
+  377  docker start holamundo
+  378  docker rm holamundo 
+  379  docker image ls
+  380  docker image rm alpineholamundo:1 alpine:3.16.2 
+  381  docker image ls
+  382  docker build -t holamundo:1 .
+  383  docker create --name holamundoc holamundo
+  384  docker image ls
+  385  docker create --name holamundoc holamundo:1
+  386  docker create --name holamundoc holamundo
+  387  docker create --name holamundoc holamundo:1
+  388  docker ps 
+  389  docker ps -a
+  390  docker rm holamundoc 
+  391  docker create --name holamundoc holamundo:1
+  392  docker start holamundoc
+  393  docker logs holamundoc 
+  394  docker rm -f holamundoc 
+  395  docker image rm holamundo:1 
+  396  docker build -t holamundo:1 .
+  397  docker create --name holamundoc holamundo:1
+  398  docker start holamundoc
+  399  docker logs holamundo
+  400  docker logs holamundoc
+  401  docker run -it --name holamundocontainer  holamundo:1 
+  402  docker logs holamundocontainer
+  403  docker ps
+  404  docker image ls
+  405  docker image rm holamundo java8ocr/java8-ocr
+  406  docker image rm holamundo:1 java8ocr/java8-ocr
+  407  docker build -t holamundo:1 .
+  408  docker create --name holamundoc holamundo:1
+  409  docker ps
+  410  docker ps -a
+  411  docker rm holamundoc:1 holamundocontainer:1
+  412  docker rm holamundoc:1 holamundocontainer
+  413  docker rm holamundoc:1
+  414  docker rm holamundoc
+  415  docker rm holamundocontainer
+  416  docker ps -a
+  417  docker ps
+  418  docker image
+  419  docker image ls
+  420  docker rm holamundo
+  421  docker image rm holamundo
+  422  docker image ls
+  423  docker image rm holamundo
+  424  docker image rm holamundo:1
+  425  docker image ls
+  426  docker build -t holamundo:1 .
+  427  docker create --name holamundoc holamundo:1
+  428  docker ps
+  429  docker ps -a
+  430  docker ps
+  431  docker ps -a
+  432  docker rm holamundoc 
+  433  docker ps -a
+  434  docker image ls
+  435  docker image rm holamundo:1 
+  436  docker build -t holamundo:1 .
+  437  docker image ls
+  438  docker image rm 1f4862e05483
+  439  docker ps
+  440  docker ps -a
+  441  docker rm -f 3c6777e09f4d
+  442  docker image ls
+  443  docker image rm 1f4862e05483
+  444  docker network ls
+  445  docker pull ubuntu:22.10
+  446  docker create --name ubuntu ubuntu:22.10
+  447  docker start ubunru
+  448  docker start ubuntu
+  449  docker attach ubuntu
+  450  docker ps
+  451  docker ps -a
+  452  docker start ubuntu
+  453  docker ps
+  454  docker logs ubuntu
+  455  docker ps -a
+  456  docker run --name ubuntu1 ubuntu:22.10 
+  457  docker ps
+  458  docker run --name ubuntu1 ubuntu:22.10 /bin/bash
+  459  docker run --name ubuntu2 ubuntu:22.10 /bin/bash
+  460  docker ps
+  461  docker run -it ubuntu:22.10 /bin/bash 
+  462  docker ps
+  463  docker run -it ubuntu:22.10 /bin/bash 
+  464  docker ps
+  465  docker attach loving_bohr 
+  466  sudo apt --allow-downgrades install wpasupplicant=2:2.9.0-21build1 Do make
+  467  sudo apt-mark hold wpasupplicant
+  468  nmcli dev wifi hotspot
+  469  nmcli dev wifi show-password
+  470  cd ..
+  471  ls
+  472  mkdir helm
+  473  cd helm/
+  474  ls
+  475  curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
+  476  ls
+  477  nano get_helm.sh 
+  478  chmod 700 get_helm.sh 
+  479  ./get_helm.sh 
+  480  helm
+  481  curl https://baltocdn.com/helm/signing.asc | gpg --dearmor | sudo tee /usr/share/keyrings/helm.gpg > /dev/null
+  482  udo apt-get install apt-transport-https --yes
+  483  sudo apt-get install apt-transport-https --yes
+  484  echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/helm.gpg] https://baltocdn.com/helm/stable/debian/ all main" | sudo tee /etc/apt/sources.list.d/helm-stable-debian.list
+  485  sudo apt-get update
+  486  sudo apt-get install helm
+  487  ip address
+  488  helm
+  489  sudo snap install helm --classic
+  490  docker ps
+  491  docker exec -it loving_bohr /bin/bash
+  492  docker pull jenkins
+  493  docker pull jenkins/jenkins:lts-jdk11
+  494  docker run -it --name jenkins-node /bin/bash
+  495  docker create --name jenkins-node jenkins/jenkins:lts-jdk11 
+  496  docker start jenkisn-node
+  497  docker ps
+  498  docker ps -a
+  499  docker start jenkins-node
+  500  docker ps
+  501  dorck rm jenkins-node
+  502  dorcker rm -f jenkins-node
+  503  docker rm -f jenkins-node
+  504  docker create --name jenkins-node -p8080:8080 jenkins/jenkins:lts-jdk11 
+  505  docker start jenkin-node
+  506  docker start jenkins-node
+  507  docker ps
+  508  docker logs jenkins-node 
+  509  docker rm -f jenkins-node
+  510  docker create --name jenkins-node -p8080:8080 -p5000:5000 jenkins/jenkins:lts-jdk11 
+  511  docker start jenkins-node
+  512  docker ps
+  513  docker logs jenkins-node 
+  514  479efa80070b4b35a0e64dd77c4ea4ee
+  515  docker exec -it loving_bohr 
+  516  docker exec -it loving_bohr /bin/bash
+  517  docker pull mongo
+  518  docker create --name mongodb mongo
+  519  docker start mongo
+  520  docker start mongodb
+  521  docker rm -f mongodb 
+  522  docker network create localNetwork
+  523  docker ps
+  524  docker rm -f jenkins-node loving_bohr 
+  525  docker create --name jenkins-node p8080:8080 --network localNetwork jenkins/jenkins:lts-jdk11
+  526  docker create --name jenkins-node -p8080:8080 --network localNetwork jenkins/jenkins:lts-jdk11
+  527  docker start jenkins-node
+  528  docker image ls
+  529  docker image rm eclipse-temurin:17-jdk-jammy ubuntu:22.10
+  530  docker pull openjdk:11
+  531  docker creat --name java-node openjdk:11
+  532  docker create --name java-node openjdk:11
+  533  docker rm -f java-node 
+  534  docker create --name java-node --network localNetwork openjdk:11
+  535  docker exec -it java-node /bin/bash
+  536  docker start java-node
+  537  docker exec -it java-node /bin/bash
+  538  docker ps
+  539  docker logs jenkins-node 
+  540  docker ps -a
+  541  docker rm ubuntu ubuntu1 ubuntu2
+  542  docker ps
+  543  docker ps -a
+  544  docker logs java-node 
+  545  docker start java-node 
+  546  docker ps
+  547  docker exec -it java-node /bin/bash
+  548  docker logs java-node
+  549  docker exec -it java-node shell
+  550  docker logs java-node
+  551  docker ps
+  552  docker ps-a
+  553  docker ps -a
+  554  docker rm -f gracious_curran 
+  555  docker start java-node 
+  556  docker ps
+  557  docker ps -a
+  558  docker logs java-node 
+  559  docker ps -a
+  560  docker rm java-node 
+  561  docker image ls
+  562  docker image rm openjdk:7 openjdk:11 mongo:latest ubuntu:22.10 
+  563  docker pull jenkins/ssh-agent:jdk11
+  564  docker create --name java-node --network localNetwork jenkins/ssh-agent:jdk11 
+  565  docker start java-node
+  566  docker ps
+  567  apt install git
+  568  sudo apt install git
+  569  cd ..
+  570  ls
+  571  mkdir git
+  572  cd git 
+  573  mkdir kubernetes-helm-docker-config
+  574  cd kubernetes-helm-docker-config/
+  575  gir clone https://github.com/ycordovac/kubernetes-helm-docker-config.git
+  576  git clone https://github.com/ycordovac/kubernetes-helm-docker-config.git
+  577  ls
+  578  cd kubernetes-helm-docker-config/
+  579  ls
+  580  cd dockerfiles/
+  581  ls
+  582  cd nodo-java/
+  583  ls
+  584  docker build .
+  585  docker ps
+  586  docker ps -a
+  587  docker image ls
+  588  docker rm -f java-node 
+  589  docker create --name java-node --network localNetwork a89bc35c1094
+  590  docker ps
+  591  docker ps -a
+  592  docker start java-node
+  593  docker ps
+  594  cd
+  595  docker exec -it java-node /bin/bash
+  596  '/opt/Lens/lens' -p '"e0f727526a1b455b96401e9547ff999a" + JSON.stringify(process.env) + "e0f727526a1b455b96401e9547ff999a"'
+  597  '/opt/Lens/lens' -p '"e8b74063ffea4443a9a7cb6a694b893e" + JSON.stringify(process.env) + "e8b74063ffea4443a9a7cb6a694b893e"'
+  598  exec kubectl exec -i -t -n default kubernetes-bootcamp-75c5d958ff-vxclm -c kubernetes-bootcamp -- sh -c "clear; (bash || ash || sh)"
+  599  '/opt/Lens/lens' -p '"a5d108806ded48d98f3be8981ac181ab" + JSON.stringify(process.env) + "a5d108806ded48d98f3be8981ac181ab"'
+  600  minikube start --profile borrar
+  601  minikube --memory 4096 --cpus 2 start --vm-driver=virtualbox -p borrar
+  602  minikube status
+  603  minikube profile list
+  604  minikube dashboard
+  605  minikube start --profile borrar
+  606  minikube stop --profile borrar
+  607  minikube start --profile borrar
+  608  kubectl create namespace jenkins
+  609  kubens jenkisn
+  610  kubens jenkins
+  611  helm repo add jenkins http://chart.jenkins.io
+  612  helm repo add jenkins https://charts.jenkins.io
+  613  helm repo update
+  614  mkdir practica
+  615  cd practica/
+  616  ls
+  617  helm show values jenkins/jenkins > jenkins.yaml
+  618  cat jenkins.yaml 
+  619  ls
+  620  git clone https://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@github.com/ycordovac/practica.git
+  621  ls
+  622  cp jenkins.yaml practica/
+  623  cp token practica/
+  624  ls
+  625  cd practica/
+  626  ls
+  627  git status
+  628  history 
+  629  history > comandos.txt
+
+  andi@dell:~/practica/practica$ helm remove jenkinsserver jenkins/jenkins
+Error: unknown command "remove" for "helm"
+
+Did you mean this?
+	uninstall
+
+Run 'helm --help' for usage.
+yandi@dell:~/practica/practica$ helm uninstall jenkinsserver jenkins/jenkins
+release "jenkinsserver" uninstalled
+Error: uninstall: Release name is invalid: jenkins/jenkins
+yandi@dell:~/practica/practica$ helm uninstall jenkinsserver
+Error: uninstall: Release not loaded: jenkinsserver: release: not found
+yandi@dell:~/practica/practica$ helm install jenkinsserver jenkins/jenkins --namespace borrar
+Error: INSTALLATION FAILED: create: failed to create: namespaces "borrar" not found
+yandi@dell:~/practica/practica$ helm install jenkinsserver jenkins/jenkins
+NAME: jenkinsserver
+LAST DEPLOYED: Mon Nov 21 23:46:45 2022
+NAMESPACE: default
+STATUS: deployed
+REVISION: 1
+NOTES:
+1. Get your 'admin' user password by running:
+  kubectl exec --namespace default -it svc/jenkinsserver -c jenkins -- /bin/cat /run/secrets/additional/chart-admin-password && echo
+2. Get the Jenkins URL to visit by running these commands in the same shell:
+  echo http://127.0.0.1:8080
+  kubectl --namespace default port-forward svc/jenkinsserver 8080:8080
+
+3. Login with the password from step 1 and the username: admin
+4. Configure security realm and authorization strategy
+5. Use Jenkins Configuration as Code by specifying configScripts in your values.yaml file, see documentation: http:///configuration-as-code and examples: https://github.com/jenkinsci/configuration-as-code-plugin/tree/master/demos
+
+For more information on running Jenkins on Kubernetes, visit:
+https://cloud.google.com/solutions/jenkins-on-container-engine
+
+For more information about Jenkins Configuration as Code, visit:
+https://jenkins.io/projects/jcasc/
+
+
+NOTE: Consider using a custom image with pre-installed plugins
+yandi@dell:~/practica/practica$ kubectl exec --namespace default -it svc/jenkinsserver -c jenkins -- /bin/cat /run/secrets/additional/chart-admin-password && echo
+cCn8JPoRL8DyjG7pONOaOb
+yandi@dell:~/practica/practica$ kubectl --namespace default port-forward svc/jenkinsserver 8080:8080
+Forwarding from 127.0.0.1:8080 -> 8080
+Forwarding from [::1]:8080 -> 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+
+
+
